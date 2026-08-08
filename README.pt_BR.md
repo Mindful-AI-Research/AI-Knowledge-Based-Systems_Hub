@@ -74,6 +74,6 @@
   
 #
  
-##### <p align="center">Copyright 2026 Mindful-AI-Assistants. Code released under the  [MIT license.](https://github.com/Mindful-AI-Assistants/CDIA-Entrepreneurship-Soft-Skills-PUC-SP/blob/21961c2693169d461c6e05900e3d25e28a292297/LICENSE)
-
+ 
+##### <p align="center">Copyright 2026 Mindful-AI-Assistants. Code released under the  [MIT license.](https://github.com/Mindful-AI-Research/AI-Knowledge-Based-Systems_Hub/blob/9da3129a27aff50062b77fa6aa38f4ee545f74da/LICENSE)
 
