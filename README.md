@@ -45,6 +45,42 @@ A PUC-SP 6th semester **Artificial Intelligence** hub for Data Science students,
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 <br><br>
 
 
