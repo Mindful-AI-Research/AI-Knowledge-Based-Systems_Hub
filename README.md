@@ -6,7 +6,7 @@
 
 
 # <p align="center"> Artificial Intelligence Knowledge Systems & Intelligent Agents Hub
-### <p align="center"> A  hub for Data Science students, focused on knowledge representation, expert systems, fuzzy logic, case-based reasoning, agents and multi-agent systems, plus an introduction to machine learning, neural networks, deep learning, and modern AI applications.
+### <p align="center"> A  Hub for AI/ML - Data Science students, focused on knowledge representation, expert systems, fuzzy logic, case-based reasoning, agents and multi-agent systems, plus an introduction to machine learning, neural networks, deep learning, and modern AI applications.
 
 <br><br>
 
