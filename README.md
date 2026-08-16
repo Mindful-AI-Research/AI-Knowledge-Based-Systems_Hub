@@ -5,12 +5,26 @@
 <!--END 🇬🇧English LANGUAGE BUTTON  --  -->
 
 
-# AI-Knowledge-Based-Systems_Hub
-A PUC-SP 6th semester **Artificial Intelligence** hub for Data Science students, focused on knowledge representation, expert systems, fuzzy logic, case-based reasoning, agents and multi-agent systems, plus an introduction to machine learning, neural networks, deep learning, and modern AI applications.[6]
+# <p align="center"> Artificial Intelligence Knowledge Systems & Intelligent Agents Hub
+### <p align="center"> A  hub for Data Science students, focused on knowledge representation, expert systems, fuzzy logic, case-based reasoning, agents and multi-agent systems, plus an introduction to machine learning, neural networks, deep learning, and modern AI applications.
 
-
+<br><br>
 
 https://github.com/user-attachments/assets/634fe32c-96f2-4cb0-92d3-17dcbe52a90f
+
+<br><br>
+
+<!-- ======================================= Start Institucional INFOR =========================================== -->
+
+**Institution:** Pontifical Catholic University of São Paulo (PUC-SP)  
+**School:** FAET — Computer Science Department  
+[**Course:**]() BSc in Human-Centered AI & Data Science • 7th Semester • 2026 
+[**Subject:**](): Artificial Intelligence Knowledge Systems & Intelligent Agents  
+**Professor:** ✨[Sandra Muniz Bozolan]()
+**Author:**  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari)  
+<!-- ========= END Institucional INFO ========= -->
+
+<br><br>
 
 
 
