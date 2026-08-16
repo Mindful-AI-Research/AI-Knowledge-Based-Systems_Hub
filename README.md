@@ -5,8 +5,10 @@
 <!--END 🇬🇧English LANGUAGE BUTTON  --  -->
 
 
-# <p align="center"> Artificial Intelligence Knowledge Systems & Intelligent Agents Hub
-### <p align="center"> A  Hub for AI/ML - Data Science students, focused on knowledge representation, expert systems, fuzzy logic, case-based reasoning, agents and multi-agent systems, plus an introduction to machine learning, neural networks, deep learning, and modern AI applications.
+# <p align="center"> Artificial Intelligence Knowledge Systems & Intelligent Agents - Hub</p>
+
+### <p align="center">A structured AI/ML and Data Science learning hub covering knowledge representation, expert systems, fuzzy logic, case-based reasoning, intelligent agents and multi-agent systems, with foundations in machine learning, neural networks, deep learning, and modern AI applications.</p>
+
 
 <br><br>
 
@@ -18,7 +20,7 @@ https://github.com/user-attachments/assets/634fe32c-96f2-4cb0-92d3-17dcbe52a90f
 
 [**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP)  <br>
 [**School:**]() FACEI — Computer Science Department  <br>
-[**Course:**]() BSc in Human-Centered AI & Data Science • 7th Semester • 2026 <br>
+[**Course:**]() BSc in Human-Centered AI & Data Science • 6th Semester • 2026 <br>
 [**Subject:**](): Artificial Intelligence Knowledge Systems & Intelligent Agents  <br>
 **Professor:** ✨[Sandra Muniz Bozolan]() <br>
 **Author:**  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari)  
