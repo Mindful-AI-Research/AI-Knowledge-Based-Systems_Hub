@@ -16,11 +16,11 @@ https://github.com/user-attachments/assets/634fe32c-96f2-4cb0-92d3-17dcbe52a90f
 
 <!-- ======================================= Start Institucional INFOR =========================================== -->
 
-[**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP)  
-[**School:**]() FACEI — Computer Science Department  
-[**Course:**]() BSc in Human-Centered AI & Data Science • 7th Semester • 2026 
-[**Subject:**](): Artificial Intelligence Knowledge Systems & Intelligent Agents  
-**Professor:** ✨[Sandra Muniz Bozolan]()
+[**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP)  <br>
+[**School:**]() FACEI — Computer Science Department  <br>
+[**Course:**]() BSc in Human-Centered AI & Data Science • 7th Semester • 2026 <br>
+[**Subject:**](): Artificial Intelligence Knowledge Systems & Intelligent Agents  <br>
+**Professor:** ✨[Sandra Muniz Bozolan]() <br>
 **Author:**  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari)  
 <!-- ========= END Institucional INFO ========= -->
 
