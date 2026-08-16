@@ -10,7 +10,7 @@ A PUC-SP 6th semester **Artificial Intelligence** hub for Data Science students,
 
 
 
-
+https://github.com/user-attachments/assets/634fe32c-96f2-4cb0-92d3-17dcbe52a90f
 
 
 
