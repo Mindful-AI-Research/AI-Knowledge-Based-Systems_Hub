@@ -5,9 +5,42 @@
 <!--END 🇬🇧English LANGUAGE BUTTON  --  -->
 
 
-# <p align="center">  🦾🤖🪽 1. [Artificial Intelligence](), [Robotics]() & [Intelligent Agents]() ↬ [Research & Consulting Hub ]()
+# <p align="center">🦾🤖🪽 1. [Artificial Intelligence](), [Robotics]() & [Intelligent Agents]() ➝ [Research & Consulting Hub]()</p>
 
-#### <p align="center">A structured AI/ML and Data Science hub exploring knowledge representation, expert systems, fuzzy logic, case-based reasoning, robotics, intelligent agents, and multi-agent systems, connecting foundational concepts to machine learning, neural networks, deep learning, and modern AI applications through research, hands-on experimentation, and consulting.
+#### <p align="center">A structured AI/ML and Data Science hub exploring **knowledge representation, expert systems, fuzzy logic, case-based reasoning, robotics, intelligent agents, and multi-agent systems**, connecting foundational concepts to machine learning, neural networks, deep learning, and modern AI applications through research, hands-on experimentation, and consulting.</p>
+
+<br><br>
+
+###### <p align="center">🦾 ***Building machines that reason, act, and collaborate...*** 🪽</p>
+###### <p align="center">*while humans remain the system’s most unpredictable variable.*</p>
+#### <p align="center">⚡️</p>
+
+<br><br>
+<!-- ========= END REPO TITLE ========= -->
+
+<!-- ========= START SPONSOR BADGE ========= -->
+#### <p align="center">[![Sponsor ॐ ⋆ ⋆ ⋆ ⋆ Mindful AI ⋆ ⋆ ⋆ ⋆ 𖤐](https://img.shields.io/badge/Sponsor-%E0%A5%90%20%E2%8B%86%20%E2%8B%86%20%E2%8B%86%20%E2%8B%86%20Mindful%20AI%20%E2%8B%86%20%E2%8B%86%20%E2%8B%86%20%E2%8B%86%20%F0%96%A4%90-brightgreen?logo=github)](https://github.com/sponsors/Mindful-AI-Research)
+
+<br><br>
+<!-- ========= END SPONSOR BADGE ========= -->
+
+<!-- =========  START PUC HEADER GIF ========= -->
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04 ">
+ </p>
+
+<br><br><br><br>
+<!-- =========  END PUC HEADER GIF ========= -->
+
+<!-- ======================================= Start Institucional INFOR =========================================== -->
+[**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP)  <br>
+[**School:**]() FACEI — Computer Science Department  <br>
+[**Course:**]() BSc in Human-Centered AI & Data Science • 6th Semester • 2026 <br>
+[**Subject:**](): Artificial Intelligence Knowledge Systems & Intelligent Agents  <br>
+**Professor:** ✨[Sandra Muniz Bozolan]() <br>
+**Author:**  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari)  
+<!-- ======================================= END I Institucional INFOR =========================================== -->
+
 
 
 <br><br>
@@ -16,17 +49,9 @@ https://github.com/user-attachments/assets/634fe32c-96f2-4cb0-92d3-17dcbe52a90f
 
 <br><br>
 
-<!-- ======================================= Start Institucional INFOR =========================================== -->
 
-[**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP)  <br>
-[**School:**]() FACEI — Computer Science Department  <br>
-[**Course:**]() BSc in Human-Centered AI & Data Science • 6th Semester • 2026 <br>
-[**Subject:**](): Artificial Intelligence Knowledge Systems & Intelligent Agents  <br>
-**Professor:** ✨[Sandra Muniz Bozolan]() <br>
-**Author:**  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari)  
-<!-- ========= END Institucional INFO ========= -->
 
-<br><br>
+
 
 
 
